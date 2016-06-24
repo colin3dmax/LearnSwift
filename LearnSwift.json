@@ -1,0 +1,12 @@
+{
+	"articles":[
+		{
+			"title":"a",
+			"author":"b",
+			"image":"c",
+			"avatar":"d",
+			"text":"e"
+		}
+	]
+
+}
